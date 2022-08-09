@@ -1,0 +1,50 @@
+*{
+    /* border: 1px solid red; */
+}
+body{
+    background-color: rgb(119, 150, 119);
+}
+h1{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: 3px solid lightblue;
+    background-color: rgb(20, 255, 145);
+}
+h3{
+
+}
+#description{
+    text-align: center;
+    background-color: lightblue;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+input {
+    background-color: white;
+}
+textarea {
+    background-color: white;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(113, 110, 113), rgb(113, 110, 113));
+}
+form{
+    padding-left: 20px;
+    color: white;
+    padding: 5px;
+    background-color: rgb(104, 133, 103);
+    border: 3px solid lightgray;
+    border-radius: 5px; 
+}
+button {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 3px;
+}
